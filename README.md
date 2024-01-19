@@ -1,40 +1,37 @@
 # Data Treatment
-## Descrição
-Este repositório contém arquivos relacionados à organização e tratamento de dados. O objetivo principal é demonstrar o processo de tratamento de dados usando Python e Power Query.
+## Description
+This repository contains files related to the organization and treatment of data. The main objective is to demonstrate the data treatment process using Python and Power Query.
 
 ---
 
-## Arquivos do Repositório
+## Repository Files
 **1. raw.csv**
-Descrição: Este arquivo contém uma base de dados inicial desorganizada.
-Finalidade: A finalidade deste arquivo é servir como ponto de partida para o processo de tratamento e organização de dados.
+Description: This file contains an initial disorganized database.
+Purpose: The purpose of this file is to serve as a starting point for the data treatment and organization process.
 
 **2. treatment_pandas.py**
-Descrição: Este é um arquivo Python que contém o código para tratar e organizar os dados do arquivo raw.csv.
-Finalidade: A finalidade deste arquivo é fornecer um exemplo de script em Python usando a biblioteca Pandas para limpar e organizar dados.
+Description: This is a Python file that contains the code to treat and organize the data from the raw.csv file.
+Purpose: The purpose of this file is to provide an example of a Python script using the Pandas library to clean and organize data.
 
 **3. treatment_excel.xlsx**
-Descrição: Este arquivo Excel contém as edições Power Query para tratar e organizar os dados do arquivo raw.csv.
-Finalidade: A finalidade deste arquivo é fornecer um exemplo de organização e limpeza de dados utilizando o Power Query.
+Description: This Excel file contains Power Query edits to treat and organize the data from the raw.csv file.
+Purpose: The purpose of this file is to provide an example of data organization and cleaning using Power Query.
 
 ---
 
-## Instruções para Uso
-Comece com o arquivo raw.csv como sua fonte de dados desorganizada.
-Execute o script Python 'treatment_pandas.py' para realizar o tratamento e organização dos dados.
-Da mesma forma, acesse o editor do Power Query no arquivo 'treatment_excel.xlsx' e analise os passos de edição até o resultado final do tratamento.
+## Instructions for Use
+Start with the raw.csv file as your source of disorganized data.
+Execute the Python script 'treatment_pandas.py' to perform the treatment and organization of the data.
+Similarly, access the Power Query editor in the 'treatment_excel.xlsx' file and analyze the editing steps until the final treatment result.
 
 --- 
 
-## Requisitos
-Para executar o script treatment-pandas.py, você precisará ter o Python instalado em seu sistema, juntamente com as bibliotecas Pandas. Você pode instalar as bibliotecas usando o pip:
+## Requirements
+To execute the treatment-pandas.py script, you will need to have Python installed on your system, along with the Pandas library. You can install the libraries using pip:
 
-```
+```bash
 pip install pandas
-
 ```
 
----
-
-## Contribuições
-Contribuições e melhorias são bem-vindas. Sinta-se à vontade para criar pull requests ou problemas (issues) com sugestões de aprimoramento.
+## Contribution
+Contributions and improvements are welcome. Feel free to create pull requests or issues with enhancement suggestions.
